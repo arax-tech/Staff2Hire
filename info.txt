@@ -1,0 +1,121 @@
+Admin
+Job Seeker
+Employer
+
+Admin Dashboard
+admin can update profile
+admin can update password
+admin can view all job seeker (admin can delete)
+admin can view all Employer (admin can delete)
+admin can view all job that posted Employer (admin can delete)
+admin can view all job seeker payments (admin can delete)
+admin can view all Employer payments (admin can delete)
+and logout
+
+
+Job Seeker Dashboard
+Register / Login 
+
+Register 
+
+
+Full name 
+Gender 
+Country 
+State 
+Address
+Email (This should be verified)
+Phone number (if possible this should be vetoed as it should be real number not textnow or google voice .
+Password
+Short description about you 
+Upload  resume 
+Upload profile picture 
+
+after register email verification once they verify by email then they can login
+after login
+
+Job Seeker can update profile
+Job Seeker can update password
+Job Seeker can view all jobs that posted 
+Job Seeker can apply for job 
+and logout
+
+
+
+Employer Dashboard
+Login / Register 
+
+Register 
+Full name 
+Short description about what you do in your company 
+Company’s name 
+company’s website
+Upload company’s logo 
+Gender 
+Email (This should be verified)
+Password
+Phone number (This should be verified)
+Tax ID (This is to verify the authenticity of your company).  US only 
+As for other countries :Upload letter head  of your company e.g Any document that carries your company’s address email and logo 
+How many employees are you looking at hiring ?
+
+After Login 
+at the time of register they have to enter credit card info so we can deduct feee
+
+I can make it $25 per month for employee and $70per month  5job postings for employer
+
+Employer can update profile
+Employer can update password
+Employer can posted new job (update delete)
+
+Job category 
+	Freelancer 
+	Errand runner 
+	Chef & Cook 
+	Host and Server 
+	Bartender
+	Retail 
+	Hotel and Leisure
+	Sales and Marketing
+	Customer Service 
+	Personal Care 
+	Delivery & Transport 
+	Cleaning and Maintenance 
+	General Labor 
+	Office 
+	Other 
+
+
+Job title 
+Location (This should be connected with googlemap) 
+Company name 
+Description 
+Job Type( Full Time, Part Time , Both )
+Salary (From$ to$ per hour per week per month)
+Tips/commission  (Yes or No) 
+Minimum age (18 or over) under18 
+
+Experience 
+
+Does this role require  experience ? Yes or No 
+
+Education/  indicate qualifications you want for this role.
+
+Employer can view all application that came for job seeker (can update & delete)
+and logout
+
+
+
+
+Server
+http://cpanel.exploitoutsourcing.com/
+User : explzkwv
+Pass : Baseball007$$$
+
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=explzkwv_staff2hire
+DB_USERNAME=explzkwv_staff2hire_root
+DB_PASSWORD=staff2hire_pwd
